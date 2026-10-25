@@ -7,6 +7,6 @@ Pachetele semnate ale site-ului HB Sync ([horiabodeanu.ro/hb-sync](https://horia
 | `hb-sync-site.zip` | pagina, installerul Windows, sursa pentru Mac și scripturile serverului |
 | `hb-sync-site.zip.sig` | semnătura Ed25519 a pachetului; serverul refuză orice pachet fără semnătura corectă |
 
-Versiunea curentă: **1.6.5**
+Versiunea curentă: **1.6.6**
 
 © DANCEFIT MRG S.R.L. (HB Photography & Films) – toate drepturile rezervate. Programul se folosește conform [Termenilor](https://horiabodeanu.ro/hb-sync/termeni/).
